@@ -1,0 +1,5 @@
+this folder is configured to upload to github
+when we made a single change in this folder ,like creating this file etc,
+git logs all the changes
+ill show you in vscode
+tis is the after section.
